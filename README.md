@@ -1,9 +1,9 @@
 # MeTooMaastrichtChatbot
-##Installation:
+## Installation:
 ```
 pip3 install -r requirements.txt
 ```
-##Run:
+## Run:
 ```
 python3 ./bot6.py
 ```
